@@ -1,0 +1,35 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "No Leaf Litter (BP only)",
+    "description": "Removes leaf litter from vanilla chunk generation. Achievement friendly. By mant1s.",
+    "uuid": "f6868bb0-b2c6-45c5-85cc-2321e372a943",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      26,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "version": [
+        1,
+        0,
+        0
+      ],
+      "uuid": "cbb690b3-6903-4502-9ad2-735d178ef1b2",
+      "type": "data"
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "mant1s"
+    ],
+    "product_type": "addon"
+  }
+}
